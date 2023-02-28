@@ -48,6 +48,12 @@ params:
     - name: Reactor
       category: Discord
       description: A Discord bot to automatically add reactions to specific users' messages
+    - name: Brainteasers (client)
+      category: Brainteasers
+      description: ""
+    - name: Brainteasers (server)
+      category: Brainteasers
+      description: ""
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#be154d"
   enableLastMod: true
@@ -69,6 +75,8 @@ params:
     - name: Discord
       description: ""
       closed: false
+    - name: Brainteasers
+      description: A trivia game powered by Socket.io and The Trivia API
   description: I continuously monitor the status of my services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
