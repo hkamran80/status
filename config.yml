@@ -40,7 +40,7 @@ params:
     - name: Website
       description: My website
       category: Uncategorized
-      link: https://example.com/
+      link: https://hkamran.com/
     - name: Assets
       description: Serves article graphics, creation lists, and more. Reliant on
         Cloudflare and Netlify.
@@ -51,6 +51,7 @@ params:
     - name: Brainteasers (client)
       category: Brainteasers
       description: ""
+      link: https://brainteasers.hkamran.com/
     - name: Brainteasers (server)
       category: Brainteasers
       description: ""
