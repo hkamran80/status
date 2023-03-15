@@ -58,7 +58,7 @@ params:
   brand: "#be154d"
   enableLastMod: true
   headerTextColor: white
-  logo: logo.png
+  logo: /img/hk-version-2.png
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
