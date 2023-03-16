@@ -59,7 +59,7 @@ params:
   brand: "#be154d"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/hk-version-2.png
+  logo: https://assets.hkamran.com/images/profile/circular
   incidentPostsPerPage: 5
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
