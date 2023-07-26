@@ -9,4 +9,4 @@ pin: false
 resolvedWhen: ""
 severity: notice
 ---
-*Investigating* - We are investigating a potential issue that might affect the uptime of one our of services. We are sorry for any inconvenience this may cause you. This incident post will be updated once we have more information.
+Reactor and other Discord bots will be down for about two hours while the server undergoes routine maintenance. The two hours is an estimate at this time, and may take more or less time depending on the upgrade.
