@@ -2,11 +2,11 @@
 section: issue
 title: Server Maintenance
 date: 2023-07-29T05:00:09.615Z
-resolved: false
+resolved: true
 draft: false
 informational: true
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2023-07-29T05:12:00.000Z
 affected:
   - Reactor
 severity: notice
